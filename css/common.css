@@ -1,0 +1,13 @@
+:root {
+  --primary-text-color: #000000;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --hero-title-color: #ffffff;
+  --logo-title-color: #2196f3;
+  --black-bgc-color: #2f303a;
+}
+/* body */
+.page {
+  color: var(--primary-text-color);
+  background-color: var(--hero-title-color);
+}
